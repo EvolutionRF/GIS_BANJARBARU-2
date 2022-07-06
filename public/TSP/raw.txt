@@ -1,0 +1,28 @@
+-3.422213°114.698212°, Danau Wisata Kota Citra Graha
+-3.489208°114.789902°, Danau Seran
+-3.452418°114.810051°, Embung Sidodi
+-3.489795°114.816582°, Kebun Raya Banua
+-3.492753°114.762894°, Danau Ceramin
+-3.5076127°114.7748248°, Danau Galuh Cempaka
+-3.43101°114.839854°, Taman Kehati
+-3.5386787°114.8533731°, Rumah Pohon
+-3.4344681°114.833598°, Hutan Pinus Mentaos
+-3.4676454°114.7922383°, Meek Farm
+-3.4775713°114.6765171°, Danau Biru
+-3.4660684°114.8635307°, Bukit Lentera
+-3.4426616°114.8312515°, Taman Van Der Pijl
+-3.4957114°114.808764°, Amanah Borneo Park
+-3.4823661°114.7764713°, Bakantan Park
+-3.463109°114.776734°, Aquatica Waterpark banjarbaru
+-3.4445119°114.8327178°, Kolam Renang Idaman
+-3.4469559°114.805228°, Kolam Renang Antasari
+-3.4420427°114.7405216°, Makam Syuhada Haji 
+-3.4421291°114.7414741°, Makam Pahlawan 
+-3.4423743°114.8381691°, Museum Lambung Mangkurat
+-3.5002443°114.8451098°, Makam Syarifah Badrun
+-3.495455°114.850979°, Mesjid Jami Cempaka
+-3.5076621°114.8412365°, Pendulangan Intan Pumpung
+-3.5035891°114.7850982°, Kampung Purun
+-3.4470624°114.8320155°, Kampung Pelangi
+-3.4500189°114.8159135°, Kampung Penjabat
+-3.4616155°114.8244048, Kawasan Mesjid Al-Munawarrah
